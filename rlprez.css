@@ -1,0 +1,676 @@
+/*!
+ * ActivePresenter HTML5 Output File
+ * Copyright (c) Atomi Systems, Inc. All rights reserved.
+ * https://atomisystems.com/activepresenter/
+ * Version: 8.3.2
+ * Date: 2021.01.26
+ */
+#may4YYPD .ap-focused {
+	outline: 1px dashed black;
+	outline-offset: 1px;
+}
+#may4YYPD p {
+	margin: 0;
+}
+#may4YYPD ol,ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#may4YYPD {
+	-webkit-tap-highlight-color: transparent;
+}
+
+.ap-input-fib-placeholder-slide-65-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-65-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-65-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-301-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-301-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-301-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-302-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-302-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-302-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-303-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-303-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-303-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-304-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-304-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-304-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-305-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-305-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-305-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-306-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-306-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-306-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-307-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-307-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-307-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-308-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-308-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-308-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-309-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-309-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-309-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-310-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-310-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-310-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-311-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-311-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-311-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-312-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-312-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-312-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-313-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-313-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-313-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-318-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-318-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-318-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+.ap-input-fib-placeholder-slide-319-control-1 {
+  box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+  vertical-align: baseline;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: default;
+  margin: 2px 0px 2px 0px;
+  background: none;
+  padding: 0 3px 0 3px;
+  max-width: 1000px;
+}
+.ap-input-fib-placeholder-slide-319-control-1:focus-within{
+  box-shadow: 0 0 0 2px rgba(127,127,127);
+  box-sizing: border-box;
+}
+.ap-input-fib-slide-319-control-1 {
+  padding: 1px 1px 1px 1px;
+  background: none;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 50px;
+  max-width: 100%;
+}
+
+.ap-correct-values-dropbtn:hover {
+  background-color: #ddd;
+}
+.ap-correct-values-dropdown {
+  position: relative;
+  display: inline-block;
+}
+.ap-correct-values-dropdown-content {
+  display: none;
+  position: absolute;
+  color: black;
+  background-color: #f1f1f1;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+.ap-correct-values-dropdown-content li
+{
+  color: black;
+  padding: 4px 4px;
+  cursor: auto;
+}
+.ap-correct-values-dropdown-content li:hover {
+  background-color: #ddd;
+}
+.ap-correct-values-dropdown:hover .ap-correct-values-dropdown-content {
+  min-width: 100px;
+}
+.ap-correct-values-dropdown:hover{
+  background-color: #ddd;
+}
+
+
+/* Animation */
+@-webkit-keyframes 
+pulsate {
+	0% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+		opacity: 0.8;
+	}
+	45% {
+		-webkit-transform: scale(1.75);
+		transform: scale(1.75);
+		opacity: 0;
+	}
+}
+@keyframes 
+pulsate {
+	0% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+		opacity: 0.8;
+	}
+	45% {
+		-webkit-transform: scale(1.75);
+		transform: scale(1.75);
+		opacity: 0;
+	}
+}
+
+.ap-hotspot {
+	position: absolute;
+	transition: all .3s ease;
+	cursor: pointer;
+}
+
+.ap-hotspot .hs-circle {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	border-radius: 50%;
+	transform-origin: 50% 50%;
+}
+
+.ap-hotspot .hs-ring {
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	-webkit-transform-origin: 50% 50%;
+	transform-origin: 50% 50%;
+	border-radius: 50%;
+	margin: -1px auto auto -1px;
+	border: 1px solid;
+	-webkit-animation: pulsate 3s ease-out infinite;
+	animation: pulsate 3s ease-out infinite;
+	opacity: 0;
+}
+
+.ap-hotspot .hs-ring:hover {
+	animation: none;
+}
